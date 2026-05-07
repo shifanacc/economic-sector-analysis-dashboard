@@ -50,7 +50,7 @@ Page 2: Detailed Analysis
 ##  Dashboard Preview
 
 ### Page 1: Overview Dashboard
-![Overview Dashboard](Dashboard_page1.png)
+![Overview Dashboard](Dashboard_Page1.png)
 
 ### Page 2: Detailed Economic Analysis
 ![Detailed Dashboard](Dashboard_page2.png)
