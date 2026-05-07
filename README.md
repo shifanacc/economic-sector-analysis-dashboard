@@ -47,6 +47,14 @@ Page 2: Detailed Analysis
 - Subindustry Distribution (Donut Chart)
 - Institutional Sector Contribution(Clustered Bar Chart)
 
+##  Dashboard Preview
+
+### Page 1: Overview Dashboard
+![Overview Dashboard](Dashboard_page1.png)
+
+### Page 2: Detailed Economic Analysis
+![Detailed Dashboard](Dashboard_page2.png)
+
 ## Key Insights
 
 - The service-related sectors contribute the highest share to total economic output
