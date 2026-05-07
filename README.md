@@ -57,11 +57,14 @@ Page 2: Detailed Analysis
 
 ## Key Insights
 
-- The service-related sectors contribute the highest share to total economic output
-- There is a consistent increase in current prices over time, indicating economic growth
-- The gap between current and constant prices highlights the impact of inflation
-- Growth trends show fluctuations in recent years, possibly due to incomplete or recent data
-- A small portion of data categorized as "Unknown" was excluded to improve analysis quality
+- Total Current Price is higher than Total Constant Price, showing inflation impact over time.
+- Economic growth increased steadily from 2011-12 to 2022-23.
+- A decline is visible after 2023-24 in current price trends.
+- Total Gross Value Added is the highest contributing sector.
+- Agriculture and Manufacturing sectors contribute significantly to the economy.
+- Current Price remains higher than Constant Price across all years.
+- Growth rate fluctuates, showing both economic growth and slowdown periods.
+- Crops and Trade & Repair Services are major contributing subindustries.
 
 ## Tools Used
 
